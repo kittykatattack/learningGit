@@ -33,17 +33,17 @@ Unix is an operating system developed in the 1960's that's still running behind 
 
 You'll love it; it's a wonderfully retro-future way to scare your parents. Here are some of the best tutorials available to help get you started.
 
-Maybe start with Michael Johnston's 2 great little videos:
+Maybe start with Michael Johnston'sgreat little videos:
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/cX9ASUE3YAQ" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/cX9ASUE3YAQ
 
 He makes a few small mistakes, which he corrects here:
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/INk0ATBbclc" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/INk0ATBbclc
 
 He explains how to set Unix up on Windows here:
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/GWJT-6gOQRU" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/GWJT-6gOQRU
 
 Ok, got it? Next, spend a bit of time getting used to working with Unix. You'll find these next two resources really helpful while you do:
 
