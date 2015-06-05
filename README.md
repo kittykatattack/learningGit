@@ -1,4 +1,4 @@
-Getting started with Git [interesting]
+Getting started with Git 
 ---------------------------------------
 
 ### Why Git?
