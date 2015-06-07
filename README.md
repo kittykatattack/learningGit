@@ -21,17 +21,32 @@ Git is great because it doesn't rely on magic. Instead of having a chaotic direc
 project.js
 ```
 
-Every time you make an important change to that file, you tell git about it by making a *commit*. A commit is a snapshot of what that file looks like at that point in time. It includes the entire file, or entire directories, that you can go back to at any time to view, change, or start working on. If you realize you prefer an earlier version of a file, you can use that as a new starting point. If you want to combine parts of early work with parts of newer work, you can do that by merging different commit states. However, you'll never lose any work that you've committed  earlier. That means you can experiment like crazy and never worry losing earlier work that worked perfectly.
+Every time you make an important change to that file, you tell git
+about it by making a *commit*. A commit is a snapshot of what that
+file looks like at that point in time. It includes the entire file, or
+entire directories, that you can go back to at any time to view,
+change, or start working on. If you realize you prefer an earlier
+version of a file, you can use that as a new starting point. If you
+want to combine parts of early work with parts of newer work, you can
+do that by merging different commit states. However, you'll never lose
+  any work that you've committed  earlier. That means you can
+  experiment like crazy and never worry about losing earlier work that worked perfectly.
 
 Amazingly, git is extremely easy to use and understand if you stick to the basics. It can get complex, but only if you want it to. You'll only ever need to use about 5% of its features 99% of the time. You just need to know how to add files, commit them, create branches, check them out, and merge them.
 
-And the other great thing is that it's a command-line tool. Although [there are many GUIs](http://git-scm.com/downloads/guis) that let you avoid the command-line - don't use them! They all exaggerate the complexity and hide git's inherent, zen-like simplicity. It's vastly easier to understand and use git on the command-line. If you've ever been afraid of learning to use Unix and command-line, now's the time to learn just so that you can start using git. Let's find out how.
+And the other great thing is that it's a command-line tool. Although
+[there are many GUI clients](http://git-scm.com/downloads/guis) that let you
+avoid the command-line - don't use them! They're all a nightmarish
+mess. All the git GUI clients exaggerate the complexity and hide git's inherent, zen-like simplicity. It's vastly easier to understand and use git on the command-line. If you've ever been afraid of learning to use Unix and command-line, now's the time to learn just so that you can start using git. Let's find out how.
 
 ### Learning Unix
 
 Unix is an operating system developed in the 1960's that's still running behind the scenes on most modern computers. You can access it by opening the Terminal application from whatever computing platform you're using (OSX, Windows or Linux). Instead of controlling your computer by using mouse to click on things, with Unix you type in text commands. Before you can start using git, you need to learn some basic Unix.
 
-You'll love it; it's a wonderfully retro-future way to scare your parents. Here are some of the best tutorials available to help get you started.
+You'll love it; it's a wonderfully retro-future way to scare your
+parents. And, interacting with a computer using single, focused commands is
+much easier and more fun than navivating a tangle of complicated
+hierarchical drop-down menus. Here are some of the best tutorials available to help get you started.
 
 Maybe start with Michael Johnston'sgreat little videos:
 
