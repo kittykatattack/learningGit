@@ -443,6 +443,13 @@ git rm fileName
 
 Have fun!
 
+### Fixing mistakes
+
+Did you do something stupid with Git that you wish you could undo?
+Take a look at GitHub's really useful article, [How to undo almost anything
+with
+Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git).
+
 ### A Git cheat-sheet
 
 Here are all the basics you need to know. For more detail check out [Git in 5 Minutes](http://classic.scottr.org/presentations/git-in-5-minutes/)
